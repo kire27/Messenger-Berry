@@ -1,0 +1,28 @@
+com/example/messenger_berry/databinding/ActivityChatLogBinding.java
+ com.example.messenger_berry.databinding.ActivityChatLogBinding
+com/example/messenger_berry/databinding/ActivityUserAccountBinding.java
+ com.example.messenger_berry.databinding.ActivityUserAccountBinding
+com/example/messenger_berry/databinding/ChatToRowBinding.java
+ com.example.messenger_berry.databinding.ChatToRowBinding
+com/example/messenger_berry/databinding/ToolBarSimpleBinding.java
+ com.example.messenger_berry.databinding.ToolBarSimpleBinding
+com/example/messenger_berry/databinding/ChatFromRowBinding.java
+ com.example.messenger_berry.databinding.ChatFromRowBinding
+com/example/messenger_berry/databinding/ActivityRegisterBinding.java
+ com.example.messenger_berry.databinding.ActivityRegisterBinding
+com/example/messenger_berry/BuildConfig.java
+ com.example.messenger_berry.BuildConfig
+com/example/messenger_berry/databinding/LatestMessageRowBinding.java
+ com.example.messenger_berry.databinding.LatestMessageRowBinding
+com/example/messenger_berry/databinding/UserRowNewMessageBinding.java
+ com.example.messenger_berry.databinding.UserRowNewMessageBinding
+com/example/messenger_berry/databinding/ActivityLoginBinding.java
+ com.example.messenger_berry.databinding.ActivityLoginBinding
+com/example/messenger_berry/databinding/ToolBarSimpleBackBinding.java
+ com.example.messenger_berry.databinding.ToolBarSimpleBackBinding
+com/example/messenger_berry/databinding/ActivityNewMessageBinding.java
+ com.example.messenger_berry.databinding.ActivityNewMessageBinding
+com/example/messenger_berry/databinding/ActivityLatestMessagesBinding.java
+ com.example.messenger_berry.databinding.ActivityLatestMessagesBinding
+com/example/messenger_berry/databinding/ToolBarBinding.java
+ com.example.messenger_berry.databinding.ToolBarBinding

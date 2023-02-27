@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_exit_to_app.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\ic_exit_to_app.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_to_row.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\chat_to_row.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_image.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\rounded_image.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_account.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_user_account.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_user_row_new_message.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\user_row_new_message.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_tool_bar.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_button.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_chatlog_edittext.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\rounded_chatlog_edittext.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_from_row.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\chat_from_row.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_latest_messages.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_latest_messages.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_circle.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_tool_bar_simple_back.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\tool_bar_simple_back.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_chatlog_button.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\rounded_chatlog_button.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\menu_nav_menu.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_latest_message_row.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\latest_message_row.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_new_message.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_new_message.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_tool_bar_simple.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\tool_bar_simple.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat_log.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\layout\\activity_chat_log.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_message_24.xml.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\drawable\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\Apps\\Messenger\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\Kotlin\\Apps\\Messenger\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

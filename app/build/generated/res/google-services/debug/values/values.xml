@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">228601730744-9bmmmossqhkevg1ggaui61di1q0hh1bb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">228601730744</string>
+    <string name="google_api_key" translatable="false">AIzaSyDHhfOr4iJqB8QGJj3GtfLsvBUxPpf3ykw</string>
+    <string name="google_app_id" translatable="false">1:228601730744:android:eb94e8f5872d040028464d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHhfOr4iJqB8QGJj3GtfLsvBUxPpf3ykw</string>
+    <string name="google_storage_bucket" translatable="false">messenger-berry.appspot.com</string>
+    <string name="project_id" translatable="false">messenger-berry</string>
+</resources>
